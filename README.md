@@ -1,1 +1,2 @@
 # NutritionAnalysis
+This R project focuses on analysis of the nutrients available in different food products from various fast food chains available. The fat to serving size ratio for every fast food chain is compared, as well as in terms of nutrients. This can help provide the consumers with a fair idea of what they are consuming and which fast food chain provides better nutrient content in their food items, thus helping them make informed decisions about their food intake. 
